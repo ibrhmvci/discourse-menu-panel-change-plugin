@@ -1,0 +1,4 @@
+plugins:
+  menu_panel_css__enabled:
+    default: true
+    client: true
